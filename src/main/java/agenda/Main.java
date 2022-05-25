@@ -1,6 +1,6 @@
 /*
  * Grupo        :gdam 11
- * Alumno       : rms
+ * Alumno       : Juan 
  * Numero Exp   : 8066
  * Fecha        : 25/05/2022
  */
