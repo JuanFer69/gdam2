@@ -24,6 +24,14 @@ public class Agenda {
     
     private static String nombreAgenda="";
 
+    Agenda() {
+        throw new UnsupportedOperationException("Not supported yet."); //To change body of generated methods, choose Tools | Templates.
+    }
+
+    Agenda() {
+        throw new UnsupportedOperationException("Not supported yet."); //To change body of generated methods, choose Tools | Templates.
+    }
+
     public String getnombreAgenda(Agenda a){
             return this.nombreAgenda;
     }
